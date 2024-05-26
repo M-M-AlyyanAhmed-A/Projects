@@ -1,6 +1,7 @@
 You can access dataset from https://www.kaggle.com/datasets/alyyan/emotion-detection/data
 
 Real-Time Emotion Detection Using Deep Learning
+
 This project implements a real-time emotion detection system using deep learning techniques. The system is designed to recognize and classify human emotions from facial expressions captured through a webcam. The following technologies and libraries are utilized in this project:
 
 OpenCV: For image processing and capturing video feed from the webcam.
